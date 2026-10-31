@@ -1,0 +1,10 @@
+# Arquivos de modelo do CS2 / Source 2 — eles vão nos Releases, nunca no git
+*.vmdl_c
+*.vmat_c
+*.vtex_c
+*.vanim_c
+*.vmesh_c
+*.vpcf_c
+*.vsnd_c
+*.zip
+*.vpk
